@@ -1,6 +1,6 @@
 <!-- ![MasterHead](https://share.creavite.co/bf345YPxKkoetuJm.gif) -->
-![MasterHead](https://share.creavite.co/UT7kqHoi3LYc0znj.gif)
-![MasterHead](https://share.creavite.co/qQ8fA9ZwFuJ30x8I.gif)
+![MasterHead](https://share.creavite.co/UT7kqHoi3LYc0znj.gif)![MasterHead](https://share.creavite.co/qQ8fA9ZwFuJ30x8I.gif)
+
 <h1 align="center">Hi 👋, I'm Yogesh Maaran</h1>
 <h3 align="center">A Passionate Python Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
