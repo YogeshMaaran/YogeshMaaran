@@ -1,7 +1,12 @@
 <!-- ![MasterHead](https://share.creavite.co/bf345YPxKkoetuJm.gif) -->
-![MasterHead](https://share.creavite.co/UT7kqHoi3LYc0znj.gif)![MasterHead](https://share.creavite.co/qQ8fA9ZwFuJ30x8I.gif)
-
-<h1 align="center">Hi 👋, I'm Yogesh Maaran</h1>
+<!--<p align="center">
+  <img width="" height="" src="https://share.creavite.co/UT7kqHoi3LYc0znj.gif">
+</p>-->
+<img align="left" width="" height="" src="https://share.creavite.co/UT7kqHoi3LYc0znj.gif"><img align="left" width="" height="" src="https://share.creavite.co/qQ8fA9ZwFuJ30x8I.gif">
+<!--<img align="left" width="" height="" src="https://share.creavite.co/qQ8fA9ZwFuJ30x8I.gif"><br>-->
+<!--![MasterHead](https://share.creavite.co/UT7kqHoi3LYc0znj.gif)-->
+<!--![MasterHead](https://share.creavite.co/qQ8fA9ZwFuJ30x8I.gif)-->
+<br><br><h1 align="center">Hi 👋, I'm Yogesh Maaran</h1>
 <h3 align="center">A Passionate Python Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 <p align="left"> <a href="https://twitter.com/yogeshmaaran" target="blank"><img src="https://img.shields.io/twitter/follow/yogeshmaaran?logo=twitter&style=for-the-badge" alt="yogeshmaaran" /></a> </p>
